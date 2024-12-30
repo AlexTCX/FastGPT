@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://blockatm.net/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="BlockATM Logo"></a>
+<a href="https://blockatm.net/"><img src="/assets/images/resources/logo-dark.png" width="120" height="120" alt="BlockATM Logo"></a>
 
 # BlockATM
 
