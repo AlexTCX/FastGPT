@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <a href="https://blockatm.net/"><img src="/.github/imgs/logo.svg" width="120" height="120" alt="BlockATM Logo"></a>
@@ -200,4 +199,3 @@ BlockATM 是一个结合区块链技术与传统ATM服务的创新解决方案�
 4. 联系方式：support@blockatm.net，[点击查看商业版定价策略](https://doc.blockatm.net/docs/commercial)
 
 ======================
-```
