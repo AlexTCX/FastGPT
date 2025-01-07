@@ -7,7 +7,7 @@
 <p align="center">
   <a href="./README_en.md">English</a> |
   <a href="./README.md">简体中文</a> |
-  <a href="./README_ja.md">日语</a>
+  <a href="./README_ja.md">繁體中文</a>
 </p>
 
 ## 永不触碰资金，真正的WEB3钱包及支付网关，基于智能合约，确保100%安全</br></br>
