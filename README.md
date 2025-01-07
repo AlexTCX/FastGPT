@@ -3,6 +3,7 @@
 <a href="https://blockatm.net/"><img src="https://blockatm.net/assets/images/resources/logo-dark.png" width="477" height="101" alt="BlockATM Logo"></a>
 
 # BlockATM
+## 永不触碰资金，真正的WEB3钱包及支付网关，基于智能合约，确保100%安全</br></br>
 
 <p align="center">
   <a href="./README_en.md">English</a> |
@@ -10,7 +11,6 @@
   <a href="./README_ja.md">繁體中文</a>
 </p>
 
-## 永不触碰资金，真正的WEB3钱包及支付网关，基于智能合约，确保100%安全</br></br>
 
 </div>
 
