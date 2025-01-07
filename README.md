@@ -10,7 +10,7 @@
   <a href="./README_ja.md">日语</a>
 </p>
 
-BlockATM 是一个结合区块链技术与传统ATM服务的创新解决方案，提供开箱即用的加密货币和法币处理能力。通过可视化工作流编排，BlockATM 实现了复杂的金融交易场景，满足现代用户的多样化需求！
+## 永不触碰资金，真正的WEB3钱包及支付网关，基于智能合约，确保100%安全</br></br>
 
 </div>
 
@@ -31,9 +31,9 @@ BlockATM 是一个结合区块链技术与传统ATM服务的创新解决方案�
 
 ![BlockATM Screenshot](https://github.com/labring/FastGPT/assets/15308462/7d3a38df-eb0e-4388-9250-2409bd33f6d4)
 
-## 🛸 在线使用
 
-- 🌍 国际版：[blockatm.net](https://blockatm.net/)
+## 🌍 官方网站 https://blockatm.net/
+
 
 |                                    |                                    |
 | ---------------------------------- | ---------------------------------- |
